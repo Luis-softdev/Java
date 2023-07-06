@@ -1,2 +1,3 @@
-# JavaCodes
-Exercícios de Java Orientado à Objetos que fiz nas aulas da Graduação e aulas extras.
+# Java
+Estudos de Java e Orientação a Objetos
+Exercicios da Faculdade + Aulas Extras
